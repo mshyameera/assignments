@@ -24,7 +24,9 @@ Deployment
 - View in your browser at http://localhost:3000
 
 Built With
+
 Node JS - Used for building Back-end service
+
 Angular JS - Used for building User Interface
 
 Version
