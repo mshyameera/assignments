@@ -1,0 +1,56 @@
+body {
+	padding-bottom: 20px;
+}
+
+/*navbar*/
+.navbar {
+	margin-bottom: 20px;
+}
+
+/*search*/
+input[type=text] {
+    width: 130px;
+    float:right;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+}
+
+input[type=text]:focus {
+    width: 50%;
+}
+
+/*Image*/
+.image-round{
+	border-radius: 50%;
+	width:150px;
+	height:150px;
+	background-color: white;
+}
+
+.content{
+	width:100%;
+	padding: 15px;
+}
+
+.feed-panel{
+	width:250px;
+}
+
+.time-header{
+	float: right;
+	padding-left: 60px;
+}
+
+.full-width{
+	 float:right;
+	 padding-right:20px;
+
+}
